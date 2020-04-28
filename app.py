@@ -16,8 +16,7 @@ elif operator == '*':
     ergebnis = zahl1 * zahl2
 elif operator == '/':
     if zahl2 == 0:
-        print('Division durch Null nicht möglich.')
-        ergebnis = 'error'
+        ergebnis = 'Error: Division durch Null nicht möglich.'
     else:
         ergebnis = zahl1 / zahl2
 
