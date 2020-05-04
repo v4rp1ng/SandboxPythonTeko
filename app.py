@@ -23,3 +23,4 @@ elif operator == '/':
 print('Das Ergebnis ist:', ergebnis)
 
 
+
